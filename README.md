@@ -12,6 +12,8 @@ The collaborative workspace for agentic organizations.
 
 Instead of pasting giant reports into chat, give the work a shared home where your team and its agents improve it together.
 
+![slashdocs demo: upload a document, comment on the exact words, resolve the thread](docs/assets/demo.gif)
+
 ## What you can build with it
 
 - Agent-generated architecture reviews
